@@ -1,0 +1,36 @@
+{
+  "name": "graphX",
+  "version": "0.0.1",
+  "description": "next graph editor for UTools",
+  "author": "Rico",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "lucide-react": "^0.488.0",
+    "mermaid": "^11.6.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.2.6",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.0.0",
+    "standard": "^17.1.0",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.30.1",
+    "utools-api-types": "^6.1.0",
+    "vite": "^6.0.11"
+  }
+}
